@@ -1,0 +1,39 @@
+<world>
+<properties>
+defaultSize height='14' width='14'/>
+</properties>
+<objects>
+<beeper x='4' y='4' num='2'/>
+<beeper x='5' y='4' num='3'/>
+<beeper x='6' y='13' num='1'/>
+<beeper x='6' y='12' num='1'/>
+<beeper x='6' y='11' num='1'/>
+<beeper x='6' y='10' num='1'/>
+<beeper x='6' y='9' num='1'/>
+<beeper x='6' y='8' num='1'/>
+<beeper x='6' y='7' num='1'/>
+<beeper x='6' y='6' num='1'/>
+<beeper x='6' y='4' num='4'/>
+<beeper x='7' y='13' num='1'/>
+<beeper x='7' y='6' num='1'/>
+<beeper x='7' y='4' num='3'/>
+<beeper x='8' y='13' num='1'/>
+<beeper x='8' y='6' num='1'/>
+<beeper x='9' y='13' num='1'/>
+<beeper x='9' y='6' num='1'/>
+<beeper x='10' y='13' num='1'/>
+<beeper x='10' y='6' num='1'/>
+<beeper x='11' y='13' num='1'/>
+<beeper x='11' y='6' num='1'/>
+<beeper x='12' y='13' num='1'/>
+<beeper x='12' y='6' num='1'/>
+<beeper x='13' y='13' num='1'/>
+<beeper x='13' y='12' num='1'/>
+<beeper x='13' y='11' num='1'/>
+<beeper x='13' y='10' num='1'/>
+<beeper x='13' y='9' num='1'/>
+<beeper x='13' y='8' num='1'/>
+<beeper x='13' y='7' num='1'/>
+<beeper x='13' y='6' num='1'/>
+</objects>
+</world>
